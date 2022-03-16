@@ -18,7 +18,7 @@ Summing up, my basic stack is:\
 **PHP (Laravel) -- JS (JQuery) -- MySQL**
 ___
 ### About
-Don't know what I really may to white - in my free from developing time && if it posible - like rollerblading, often watch anime (my avatar proof ツ). But the most favourite hobby is PC gaming:video_game:.\
+Don't know what I really may to write - in my free from developing time && if it posible - like rollerblading, often watch anime (my avatar proof ツ). But the most favourite hobby is PC gaming:video_game:.\
 The most lovely genre - action RPG and specifically game series Dark Souls :skull:
 
 **Actually my [steam profile](https://steamcommunity.com/id/chihiro_yamato/)**\
