@@ -14,11 +14,12 @@ According to my humble GitHub statistics you can see - GitHub is not my primary 
 
 `So, if we are on the developers platform - it's necessary to tell about:`
 ### Stack
-My main language is **PHP**:rocket:. But at the same time I'm trying to ~~(and this shit was fallen) learn JS (thinking to be Full-stack, haha)~~. Will learn Laravel framework:books: as fast as possible and it will become my main framework (not in this life).\
+My main language is **PHP**:rocket:. But at the same time I'm trying to learn Golang so to become Software Engineer🤓\
 Summing up, my basic stack is:\
-~~**PHP (Laravel) -- JS (JQuery) -- MySQL** ("lol, well that was crap)~~\
-  **PHP** (symfomy) - **MySQL** - **RabbitMQ** - *(future) Go*
+  **PHP** (Symfomy/Laravel) - **MySQL** - **RabbitMQ** - *(future) Go*
  
+ ___
+### Plans
 In terms of PHP development, I am eager to try something that is not yet too typical for this language, specifically asynchronous programming using Swoole framework or by integrating PHP with Go to create a multithreaded monster. I have a couple of ideas for pet projects.
 
 In the future, I also want to learn Java and then move to Kotlin. I am particularly interested in Kotlin because PHP in its current development vector tries to become something like Kotlin in terms of language constructs and OOP.
