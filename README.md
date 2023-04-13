@@ -1,9 +1,10 @@
 ### Hi there 👋
 ___
 #### My name is Alexander Mironov, I'm **Backend Developer** :octocat: from Russia 
-*(and it actually means English is not my primary language, so there might be mistakes, ~~mistakes everywhere~~)*
+*(and it actually means English is not my native language, so there might be mistakes, ~~mistakes everywhere~~)*
 
-According to my humble GitHub statistics you can see - my journey in developing had just begun in november 2021 - yeah, I'm just a beginner developer *(hope when upgrade my hard skills - I will not forget update this text :eyes:)*.
+According to my humble GitHub statistics you can see - GitHub is not my primary platform for sharing code (haha).\
+*Most of my code is protected by NDAs in private repositories of commercial companies. On GitHub, I work on personal projects (although unfortunately, I have little time for it).*
 
 - [x] come up with profile desc
 - [ ] ~~push profile desc~~
@@ -13,11 +14,19 @@ According to my humble GitHub statistics you can see - my journey in developing 
 
 `So, if we are on the developers platform - it's necessary to tell about:`
 ### Stack
-My primary language is **PHP**:rocket:. But at the same time I'm trying to learn JS ~~(thinking to be Full-stack, haha)~~. Will learn Laravel framework:books: as fast as possible and it will become my main framework.\
+My main language is **PHP**:rocket:. But at the same time I'm trying to ~~(and this shit was fallen) learn JS (thinking to be Full-stack, haha)~~. Will learn Laravel framework:books: as fast as possible and it will become my main framework (not in this life).\
 Summing up, my basic stack is:\
-**PHP (Laravel) -- JS (JQuery) -- MySQL**
+~~**PHP (Laravel) -- JS (JQuery) -- MySQL** ("lol, well that was crap)~~\
+  **PHP** (symfomy) - **MySQL** - **RabbitMQ** - *(future) Go*
+ 
+In terms of PHP development, I am eager to try something that is not yet too typical for this language, specifically asynchronous programming using Swoole framework or by integrating PHP with Go to create a multithreaded monster. I have a couple of ideas for pet projects.
+
+In the future, I also want to learn Java and then move to Kotlin. I am particularly interested in Kotlin because PHP in its current development vector tries to become something like Kotlin in terms of language constructs and OOP.
+
+Perhaps, but not sure, I will return to the origins in C in order to conquer PHP FFI. For now, this is the end of my IT interests list.
+
 ___
-### About
+### Me
 Don't know what I really may to write - in my free from developing time && if it posible - like rollerblading, often watch anime (my avatar proof ツ). But the most favourite hobby is PC gaming:video_game:.\
 The most lovely genre - action RPG and specifically game series Dark Souls :skull:
 
