@@ -14,7 +14,7 @@ According to my humble GitHub statistics you can see - GitHub is not my primary 
 
 `So, if we are on the developers platform - it's necessary to tell about:`
 ### Stack
-My main language is **PHP**:rocket:. But at the same time I'm trying to learn Golang so to become Software Engineer🤓\
+While my main language is **PHP**:rocket:, I am currently learning Golang to expand my skillset as a software engineer🤓\
 Summing up, my basic stack in web is:\
   **PHP** (Symfomy/Laravel) - **MySQL** - **RabbitMQ** - **Redis** - **Docker** - *(future) Go*
  
@@ -24,7 +24,7 @@ In terms of PHP development, I am eager to try something that is not yet too typ
 
 In the future, I also want to learn Java and then move to Kotlin. I am particularly interested in Kotlin because PHP in its current development vector tries to become something like Kotlin in terms of language constructs and OOP.
 
-Perhaps, but not sure, I will return to the origins in C in order to conquer PHP FFI. For now, this is the end of my IT interests list.
+Perhaps, but not sure, I may revisit my C programming skills in order to master PHP FFI.. For now, this is the end of my IT interests list.
 
 ___
 ### Me
