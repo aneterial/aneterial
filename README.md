@@ -15,8 +15,8 @@ According to my humble GitHub statistics you can see - GitHub is not my primary 
 `So, if we are on the developers platform - it's necessary to tell about:`
 ### Stack
 My main language is **PHP**:rocket:. But at the same time I'm trying to learn Golang so to become Software Engineer🤓\
-Summing up, my basic stack is:\
-  **PHP** (Symfomy/Laravel) - **MySQL** - **RabbitMQ** - *(future) Go*
+Summing up, my basic stack in web is:\
+  **PHP** (Symfomy/Laravel) - **MySQL** - **RabbitMQ** - **Redis** - **Docker** - *(future) Go*
  
  ___
 ### Plans
