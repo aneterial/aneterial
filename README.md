@@ -31,7 +31,7 @@ ___
 Don't know what I really may to write - in my free from developing time && if it posible - like rollerblading, often watch anime (my avatar proof ツ). But the most favourite hobby is PC gaming:video_game:.\
 The most lovely genre - action RPG and specifically game series Dark Souls :skull:
 
-**Actually my [steam profile](https://steamcommunity.com/id/chihiro_yamato/)**\
+**Actually my [steam profile](https://steamcommunity.com/id/aneterial/)**\
 *some screenshots ^__^*
 ![Dude](https://steamuserimages-a.akamaihd.net/ugc/916925154148662862/4C7EFD0997027DABAD7D50E0DE80393EFB5FD9E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "Dude")
 ![Master](https://steamuserimages-a.akamaihd.net/ugc/859486570398579345/0F050E54203C1EDB29BAD3359E0E7093FB36D2ED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "Master")
