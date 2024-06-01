@@ -6,6 +6,10 @@ ___
 According to my humble GitHub statistics you can see - GitHub is not my primary platform for sharing code (haha).\
 *Most of my code is protected by NDAs in private repositories of commercial companies. On GitHub, I work on personal projects (although unfortunately, I have little time for it).*
 
+*But here is stats*
+
+[![wakatime](https://wakatime.com/badge/user/9d0b5d61-8260-442f-bfb2-9659e81a5b27.svg)](https://wakatime.com/@9d0b5d61-8260-442f-bfb2-9659e81a5b27)
+
 - [x] come up with profile desc
 - [ ] ~~push profile desc~~
 - [ ] ~~merge profile desc~~
