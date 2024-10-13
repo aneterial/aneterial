@@ -40,3 +40,5 @@ The most lovely genre - action RPG and specifically game series Dark Souls :skul
 ![Dude](https://steamuserimages-a.akamaihd.net/ugc/916925154148662862/4C7EFD0997027DABAD7D50E0DE80393EFB5FD9E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "Dude")
 ![Master](https://steamuserimages-a.akamaihd.net/ugc/859486570398579345/0F050E54203C1EDB29BAD3359E0E7093FB36D2ED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "Master")
 ![The end](https://steamuserimages-a.akamaihd.net/ugc/859485728044325256/45DE87361E02A03FAEDE567255237F625218D4F1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "The end")
+
+[![Mironov Alexander profile views](https://u8views.com/api/v1/github/profiles/83873886/views/day-week-month-total-count.svg)](https://u8views.com/github/aneterial)
