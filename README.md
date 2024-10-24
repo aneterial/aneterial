@@ -55,7 +55,7 @@ The most lovely genre - action RPG and specifically game series Dark Souls :skul
 </div> 
 
 <div align="center" style="display: flex; flex-flow: column wrap;">
-<details>
+<details open>
 <summary>Games</summary><br>
  
 **Actually my [steam profile](https://steamcommunity.com/id/aneterial/)**\
