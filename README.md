@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; flex-flow: column wrap;">
-  <img src="https://wakatime.com/badge/user/9d0b5d61-8260-442f-bfb2-9659e81a5b27.svg" alt="wakatime" />
-  <img src="https://komarev.com/ghpvc/?username=aneterial&color=ff69b4&abbreviated=true" alt="watching_count" />
+  <a href="https://wakatime.com/@Aneterial"><img src="https://wakatime.com/badge/user/9d0b5d61-8260-442f-bfb2-9659e81a5b27.svg" alt="wakatime"></a>
+  <img src="https://komarev.com/ghpvc/?username=aneterial&color=ff69b4&abbreviated=true" alt="watching_count">
  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-7.4+-7a86b8?style=flat&logo=php" alt="PHP"></a>
  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/laravel-8+-f9332b?style=flat&logo=laravel" alt="Laravel"></a>
  <a href="hhttps://symfony.com/"><img src="https://img.shields.io/badge/symfony-6%2B-blue?style=flat&logo=symfony" alt="symfony"></a>
